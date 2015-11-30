@@ -8,7 +8,6 @@ export default Ember.Route.extend({
       }, {
       name: "Rawneed Inc.",
       twitter: "@rawneed"
-      }
     }];
   }
 
